@@ -82,7 +82,8 @@ pip install requests tiktoken prompt-toolkit
 # Clone or download the script
 Clone
 git clone https://github.com/infrabrew/open_chat_cli.py.git
-python3 open_chat_cli.py
+
+# OR
 
 wget https://raw.githubusercontent.com/infrabrew/llm-chat-client/main/open_chat_cli.py
 
