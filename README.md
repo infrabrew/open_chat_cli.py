@@ -1,4 +1,4 @@
-# Interactive LLM Chat Client
+# Interactive LLM Chat Client CLI
 
 **A streaming CLI chat interface for Ollama, vLLM, and Groq with real-time token statistics**
 
@@ -80,7 +80,11 @@ pip install requests tiktoken prompt-toolkit
 
 ```bash
 # Clone or download the script
-wget https://raw.githubusercontent.com/yourusername/llm-chat-client/main/open_chat_cli.py
+Clone
+git clone https://github.com/infrabrew/open_chat_cli.py.git
+python3 open_chat_cli.py
+
+wget https://raw.githubusercontent.com/infrabrew/llm-chat-client/main/open_chat_cli.py
 
 # Install dependencies
 pip install requests tiktoken prompt-toolkit
